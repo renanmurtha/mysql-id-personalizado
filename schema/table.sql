@@ -1,6 +1,6 @@
 -- Exemplo de uso: Sistema de chamado, Ordem de serviço
 -- Isert -- 
--- insert  into test(year_autonum) values (null);
+-- insert into test(year_autonum) values (null);
 
 DROP TABLE IF EXISTS test;
 CREATE TABLE test

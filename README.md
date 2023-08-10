@@ -7,8 +7,13 @@ No primeiro insert do ano, o ID é readequado para o ano vigente, e reiniciando 
 
 O ID customizado pode ser adaptada ao tamanho da aplicação.
 
+* insert into test(year_autonum) values (null);
+<p> Exemplo:
 
-Exemplo na imagem.
+* 2023-99999 
+* 2024-00000
+
+## Exemplo na imagem.
 
 
 <p align="center">
